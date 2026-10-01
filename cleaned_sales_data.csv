@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Category,Product,Quantity,Unit_Price,Discount,Gross_Sales,Net_Sales,Region,Sales_Channel,Payment_Method,Discount_%
+ORD0001,2025-08-27,CUST231,Electronics,Smartwatch,3,29166,0.0,87498,87498.0,West,Marketplace,Net Banking,0.0
+ORD0002,2025-07-07,CUST295,Sports,Football,1,2910,0.2,2910,2328.0,East,Mobile App,COD,20.0
+ORD0003,2025-06-14,CUST169,Beauty,Shampoo,2,2247,0.2,4494,3595.2,East,Website,Net Banking,20.0
+ORD0004,2025-01-25,CUST190,Sports,Running Shoes,5,5559,0.0,27795,27795.0,South,Mobile App,UPI,0.0
+ORD0005,2025-09-29,CUST326,Beauty,Face Serum,4,1074,0.05,4296,4081.2,South,Website,Debit Card,5.0
+ORD0006,2025-06-18,CUST335,Sports,Yoga Mat,1,1974,0.15,1974,1677.9,South,Website,COD,15.0
+ORD0007,2025-02-05,CUST324,Sports,Dumbbells,2,5730,0.05,11460,10887.0,South,Website,Net Banking,5.0
+ORD0008,2025-10-31,CUST217,Sports,Yoga Mat,1,5615,0.15,5615,4772.75,East,Website,Net Banking,15.0
+ORD0009,2025-07-04,CUST263,Beauty,Shampoo,3,802,0.15,2406,2045.1,South,Marketplace,Debit Card,15.0
+ORD0010,2025-07-29,CUST250,Electronics,Smartwatch,4,37531,0.05,150124,142617.8,North,Mobile App,Debit Card,5.0
+ORD0011,2025-04-11,CUST313,Fashion,T-Shirt,3,4179,0.0,12537,12537.0,South,Marketplace,Credit Card,0.0
+ORD0012,2025-02-16,CUST204,Beauty,Moisturizer,3,2491,0.1,7473,6725.7,West,Website,UPI,10.0
+ORD0013,2025-02-08,CUST325,Home & Kitchen,Air Fryer,1,8862,0.0,8862,8862.0,East,Marketplace,UPI,0.0
+ORD0014,2025-06-30,CUST251,Beauty,Moisturizer,3,787,0.15,2361,2006.85,South,Marketplace,UPI,15.0
+ORD0015,2025-05-04,CUST291,Home & Kitchen,Air Fryer,5,10966,0.05,54830,52088.5,West,Website,Net Banking,5.0
+ORD0016,2025-10-15,CUST131,Home & Kitchen,Coffee Maker,3,3776,0.2,11328,9062.4,South,Marketplace,Credit Card,20.0
+ORD0017,2025-10-23,CUST223,Sports,Running Shoes,3,6067,0.15,18201,15470.85,East,Mobile App,Debit Card,15.0
+ORD0018,2025-02-21,CUST296,Home & Kitchen,Coffee Maker,3,8043,0.1,24129,21716.1,North,Website,Unknown,10.0
+ORD0019,2025-08-30,CUST174,Electronics,Smartphone,1,44630,0.0,44630,44630.0,West,Marketplace,Debit Card,0.0
+ORD0020,2025-08-12,CUST216,Beauty,Shampoo,3,590,0.1,1770,1593.0,West,Website,UPI,10.0
+ORD0021,2025-09-02,CUST301,Home & Kitchen,Mixer Grinder,3,11297,0.1,33891,30501.9,South,Marketplace,Credit Card,10.0
+ORD0022,2025-11-07,CUST235,Beauty,Moisturizer,3,1068,0.2,3204,2563.2,North,Website,Debit Card,20.0
+ORD0023,2025-09-01,CUST334,Home & Kitchen,Air Fryer,4,3877,0.15,15508,13181.8,West,Website,UPI,15.0
+ORD0024,2025-12-22,CUST177,Sports,Football,2,4106,0.05,8212,7801.4,West,Mobile App,COD,5.0
+ORD0025,2025-03-15,CUST347,Fashion,Jeans,5,4565,0.05,22825,21683.75,West,Website,UPI,5.0
+ORD0026,2025-04-20,CUST311,Beauty,Face Serum,3,590,0.15,1770,1504.5,West,Website,COD,15.0
+ORD0027,2025-06-21,CUST321,Electronics,Headphones,2,3197,0.05,6394,6074.3,North,Marketplace,Net Banking,5.0
+ORD0028,2025-01-02,CUST322,Home & Kitchen,Mixer Grinder,5,3422,0.2,17110,13688.0,North,Marketplace,UPI,20.0
+ORD0029,2025-09-20,CUST180,Home & Kitchen,Coffee Maker,5,2919,0.15,14595,12405.75,West,Mobile App,Debit Card,15.0
+ORD0030,2025-12-08,CUST342,Beauty,Face Serum,1,878,0.15,878,746.3,North,Website,Debit Card,15.0
+ORD0031,2025-10-07,CUST121,Fashion,Sneakers,3,515,0.15,1545,1313.25,East,Marketplace,UPI,15.0
+ORD0032,2025-07-27,CUST227,Beauty,Face Serum,5,2439,0.1,12195,10975.5,East,Website,COD,10.0
+ORD0033,2025-12-17,CUST310,Beauty,Shampoo,5,1593,0.15,7965,6770.25,North,Marketplace,UPI,15.0
+ORD0034,2025-01-03,CUST208,Sports,Running Shoes,5,6564,0.2,32820,26256.0,South,Mobile App,Net Banking,20.0
+ORD0035,2025-08-31,CUST183,Fashion,T-Shirt,1,2529,0.05,2529,2402.55,East,Marketplace,Net Banking,5.0
+ORD0036,2025-10-02,CUST128,Fashion,Backpack,4,4661,0.1,18644,16779.6,East,Marketplace,COD,10.0
+ORD0037,2025-07-13,CUST339,Home & Kitchen,Mixer Grinder,2,3374,0.2,6748,5398.4,North,Marketplace,UPI,20.0
+ORD0038,2025-05-11,CUST328,Beauty,Moisturizer,1,967,0.0,967,967.0,West,Mobile App,UPI,0.0
+ORD0039,2025-07-30,CUST148,Electronics,Smartphone,1,30597,0.0,30597,30597.0,North,Marketplace,UPI,0.0
+ORD0040,2025-07-08,CUST284,Beauty,Moisturizer,4,2113,0.1,8452,7606.8,West,Marketplace,COD,10.0
+ORD0041,2025-06-29,CUST337,Beauty,Face Serum,1,763,0.1,763,686.7,South,Website,UPI,10.0
+ORD0042,2025-12-04,CUST201,Electronics,Smartphone,3,58272,0.0,174816,174816.0,West,Marketplace,UPI,0.0
+ORD0043,2025-10-20,CUST256,Fashion,Backpack,5,3065,0.15,15325,13026.25,East,Mobile App,Net Banking,15.0
+ORD0044,2025-10-29,CUST296,Sports,Yoga Mat,3,6074,0.1,18222,16399.8,South,Marketplace,Net Banking,10.0
+ORD0045,2025-01-23,CUST184,Home & Kitchen,Mixer Grinder,1,6100,0.05,6100,5795.0,South,Mobile App,Credit Card,5.0
+ORD0046,2025-06-08,CUST267,Sports,Running Shoes,2,2429,0.2,4858,3886.4,West,Marketplace,Debit Card,20.0
+ORD0047,2025-06-18,CUST238,Sports,Running Shoes,3,4741,0.2,14223,11378.4,East,Marketplace,Net Banking,20.0
+ORD0048,2025-03-06,CUST329,Electronics,Smartphone,4,4021,0.2,16084,12867.2,North,Marketplace,Net Banking,20.0
+ORD0049,2025-08-15,CUST339,Sports,Yoga Mat,4,6583,0.0,26332,26332.0,West,Website,COD,0.0
+ORD0050,2025-06-12,CUST280,Beauty,Moisturizer,4,2345,0.05,9380,8911.0,East,Website,UPI,5.0
+ORD0051,2025-03-03,CUST269,Beauty,Moisturizer,1,267,0.1,267,240.3,East,Marketplace,Net Banking,10.0
+ORD0052,2025-07-08,CUST296,Fashion,Backpack,3,4287,0.0,12861,12861.0,North,Marketplace,UPI,0.0
+ORD0053,2025-09-24,CUST284,Beauty,Moisturizer,3,718,0.05,2154,2046.3,West,Marketplace,Net Banking,5.0
+ORD0054,2025-10-18,CUST121,Sports,Running Shoes,2,1524,0.0,3048,3048.0,West,Mobile App,Debit Card,0.0
+ORD0055,2025-02-16,CUST253,Sports,Running Shoes,4,6584,0.15,26336,22385.6,South,Website,Credit Card,15.0
+ORD0056,2025-01-02,CUST319,Sports,Football,4,1270,0.2,5080,4064.0,East,Website,UPI,20.0
+ORD0057,2025-01-12,CUST207,Beauty,Moisturizer,4,465,0.2,1860,1488.0,South,Marketplace,Debit Card,20.0
+ORD0058,2025-01-05,CUST197,Home & Kitchen,Mixer Grinder,2,11078,0.0,22156,22156.0,West,Website,COD,0.0
+ORD0059,2025-10-11,CUST134,Sports,Running Shoes,5,6994,0.15,34970,29724.5,East,Mobile App,UPI,15.0
+ORD0060,2025-11-12,CUST302,Sports,Football,1,1429,0.15,1429,1214.65,North,Website,COD,15.0
+ORD0061,2025-11-28,CUST345,Home & Kitchen,Coffee Maker,1,761,0.15,761,646.85,West,Marketplace,Credit Card,15.0
+ORD0062,2025-03-31,CUST311,Home & Kitchen,Cookware Set,1,9750,0.15,9750,8287.5,East,Marketplace,COD,15.0
+ORD0063,2025-06-16,CUST237,Beauty,Face Serum,2,1819,0.15,3638,3092.3,East,Website,COD,15.0
+ORD0064,2025-10-24,CUST230,Beauty,Face Serum,4,285,0.15,1140,969.0,West,Marketplace,Net Banking,15.0
+ORD0065,2025-01-26,CUST202,Beauty,Face Serum,4,743,0.15,2972,2526.2,North,Mobile App,UPI,15.0
+ORD0066,2025-05-18,CUST318,Sports,Yoga Mat,5,5596,0.15,27980,23783.0,East,Mobile App,UPI,15.0
+ORD0067,2025-07-17,CUST210,Home & Kitchen,Cookware Set,2,7231,0.15,14462,12292.7,West,Website,UPI,15.0
+ORD0068,2025-09-10,CUST336,Beauty,Moisturizer,3,541,0.0,1623,1623.0,South,Website,Credit Card,0.0
+ORD0069,2025-10-14,CUST310,Sports,Running Shoes,4,3176,0.1,12704,11433.6,North,Marketplace,Debit Card,10.0
+ORD0070,2025-12-02,CUST123,Sports,Running Shoes,1,3581,0.05,3581,3401.95,East,Mobile App,Debit Card,5.0
+ORD0071,2025-07-19,CUST185,Beauty,Moisturizer,4,1637,0.15,6548,5565.8,East,Website,Debit Card,15.0
+ORD0072,2025-07-12,CUST132,Beauty,Moisturizer,2,2068,0.2,4136,3308.8,West,Marketplace,Debit Card,20.0
+ORD0073,2025-04-09,CUST110,Sports,Dumbbells,4,5942,0.1,23768,21391.2,North,Website,UPI,10.0
+ORD0074,2025-10-27,CUST282,Fashion,Backpack,1,2642,0.0,2642,2642.0,South,Website,Net Banking,0.0
+ORD0075,2025-06-09,CUST159,Fashion,T-Shirt,5,3662,0.0,18310,18310.0,East,Marketplace,UPI,0.0
+ORD0076,2025-07-03,CUST292,Beauty,Shampoo,5,1261,0.05,6305,5989.75,East,Website,Net Banking,5.0
+ORD0077,2025-12-04,CUST216,Sports,Running Shoes,4,1858,0.1,7432,6688.8,North,Marketplace,UPI,10.0
+ORD0078,2025-12-02,CUST262,Beauty,Sunscreen,5,701,0.2,3505,2804.0,North,Mobile App,Debit Card,20.0
+ORD0079,2025-04-30,CUST329,Fashion,Jeans,1,2606,0.1,2606,2345.4,North,Website,UPI,10.0
+ORD0080,2025-12-10,CUST348,Home & Kitchen,Cookware Set,1,3331,0.1,3331,2997.9,East,Marketplace,Debit Card,10.0
+ORD0081,2025-04-09,CUST201,Electronics,Laptop,2,54924,0.15,109848,93370.8,East,Marketplace,Net Banking,15.0
+ORD0082,2025-09-22,CUST182,Sports,Yoga Mat,2,2699,0.2,5398,4318.4,South,Mobile App,Net Banking,20.0
+ORD0083,2025-05-16,CUST196,Sports,Football,3,4316,0.2,12948,10358.4,South,Mobile App,Debit Card,20.0
+ORD0084,2025-07-08,CUST197,Fashion,Sneakers,1,3293,0.15,3293,2799.05,Unknown,Website,Credit Card,15.0
+ORD0085,2025-04-05,CUST135,Home & Kitchen,Air Fryer,1,11180,0.05,11180,10621.0,East,Mobile App,UPI,5.0
+ORD0086,2025-03-04,CUST319,Beauty,Shampoo,4,1855,0.15,7420,6307.0,South,Marketplace,Net Banking,15.0
+ORD0087,2025-07-08,CUST118,Sports,Football,4,5583,0.2,22332,17865.6,North,Mobile App,Net Banking,20.0
+ORD0088,2025-08-26,CUST138,Fashion,Jeans,3,893,0.2,2679,2143.2,South,Marketplace,Net Banking,20.0
+ORD0089,2025-08-21,CUST340,Fashion,Sneakers,2,2737,0.15,5474,4652.9,South,Marketplace,COD,15.0
+ORD0090,2025-04-29,CUST155,Fashion,Jeans,5,3389,0.0,16945,16945.0,East,Mobile App,COD,0.0
+ORD0091,2025-06-12,CUST192,Home & Kitchen,Cookware Set,5,1117,0.0,5585,5585.0,North,Marketplace,Net Banking,0.0
+ORD0092,2025-08-28,CUST195,Sports,Dumbbells,4,5306,0.2,21224,16979.2,North,Marketplace,Credit Card,20.0
+ORD0093,2025-03-27,CUST232,Electronics,Headphones,5,29845,0.15,149225,126841.25,North,Marketplace,Debit Card,15.0
+ORD0094,2025-08-11,CUST294,Sports,Football,4,6043,0.05,24172,22963.4,West,Marketplace,Credit Card,5.0
+ORD0095,2025-06-13,CUST269,Sports,Dumbbells,2,6262,0.0,12524,12524.0,North,Marketplace,Credit Card,0.0
+ORD0096,2025-06-05,CUST233,Beauty,Moisturizer,5,1686,0.1,8430,7587.0,North,Website,Debit Card,10.0
+ORD0097,2025-11-09,CUST154,Electronics,Smartwatch,4,48232,0.2,192928,154342.4,South,Mobile App,UPI,20.0
+ORD0098,2025-01-31,CUST340,Electronics,Smartphone,1,23974,0.1,23974,21576.6,East,Marketplace,Credit Card,10.0
+ORD0099,2025-11-20,CUST186,Beauty,Shampoo,5,1382,0.05,6910,6564.5,West,Mobile App,Credit Card,5.0
+ORD0100,2025-11-22,CUST254,Beauty,Shampoo,5,2463,0.1,12315,11083.5,East,Website,Credit Card,10.0
+ORD0101,2025-04-20,CUST115,Fashion,T-Shirt,2,407,0.05,814,773.3,East,Website,Net Banking,5.0
+ORD0102,2025-08-20,CUST163,Beauty,Sunscreen,3,2387,0.15,7161,6086.85,West,Marketplace,COD,15.0
+ORD0103,2025-06-21,CUST179,Home & Kitchen,Cookware Set,1,7052,0.15,7052,5994.2,West,Marketplace,Debit Card,15.0
+ORD0104,2025-02-20,CUST112,Fashion,Jeans,1,1750,0.0,1750,1750.0,North,Mobile App,UPI,0.0
+ORD0105,2025-04-07,CUST258,Fashion,Jeans,3,4319,0.0,12957,12957.0,South,Marketplace,UPI,0.0
+ORD0106,2025-06-13,CUST137,Fashion,Sneakers,2,1460,0.1,2920,2628.0,North,Website,UPI,10.0
+ORD0107,2025-03-01,CUST202,Beauty,Sunscreen,1,868,0.05,868,824.6,South,Mobile App,Net Banking,5.0
+ORD0108,2025-07-13,CUST315,Beauty,Sunscreen,2,1594,0.1,3188,2869.2,East,Mobile App,Credit Card,10.0
+ORD0109,2025-04-01,CUST147,Sports,Running Shoes,5,3495,0.15,17475,14853.75,North,Mobile App,UPI,15.0
+ORD0110,2025-01-08,CUST138,Home & Kitchen,Air Fryer,5,804,0.0,4020,4020.0,North,Marketplace,Net Banking,0.0
+ORD0111,2025-02-02,CUST170,Beauty,Face Serum,3,1796,0.0,5388,5388.0,West,Mobile App,Net Banking,0.0
+ORD0112,2025-11-24,CUST239,Beauty,Face Serum,4,905,0.2,3620,2896.0,South,Marketplace,Net Banking,20.0
+ORD0113,2025-01-29,CUST128,Fashion,Backpack,2,2921,0.15,5842,4965.7,East,Website,Credit Card,15.0
+ORD0114,2025-08-21,CUST195,Beauty,Shampoo,2,2189,0.05,4378,4159.1,North,Marketplace,UPI,5.0
+ORD0115,2025-11-05,CUST136,Sports,Dumbbells,4,2561,0.2,10244,8195.2,East,Website,UPI,20.0
+ORD0116,2025-09-02,CUST166,Sports,Yoga Mat,4,3797,0.2,15188,12150.4,North,Marketplace,UPI,20.0
+ORD0117,2025-07-30,CUST203,Beauty,Sunscreen,3,1538,0.2,4614,3691.2,East,Website,Net Banking,20.0
+ORD0118,2025-09-21,CUST344,Electronics,Smartphone,1,30061,0.15,30061,25551.85,West,Website,UPI,15.0
+ORD0119,2025-02-27,CUST146,Electronics,Headphones,2,55355,0.15,110710,94103.5,East,Mobile App,Credit Card,15.0
+ORD0120,2025-07-14,CUST137,Sports,Dumbbells,4,5429,0.2,21716,17372.8,South,Marketplace,Debit Card,20.0
+ORD0121,2025-01-13,CUST293,Fashion,Unknown,4,4721,0.0,18884,18884.0,West,Mobile App,Credit Card,0.0
+ORD0122,2025-06-21,CUST329,Electronics,Headphones,1,24529,0.0,24529,24529.0,West,Marketplace,COD,0.0
+ORD0123,2025-05-06,CUST203,Home & Kitchen,Air Fryer,3,8988,0.05,26964,25615.8,East,Website,Net Banking,5.0
+ORD0124,2025-07-14,CUST274,Sports,Dumbbells,4,1179,0.2,4716,3772.8,West,Marketplace,Net Banking,20.0
+ORD0125,2025-01-02,CUST347,Beauty,Face Serum,2,1275,0.2,2550,2040.0,South,Marketplace,Net Banking,20.0
+ORD0126,2025-08-18,CUST196,Fashion,Backpack,2,3028,0.1,6056,5450.4,South,Website,Net Banking,10.0
+ORD0127,2025-07-04,CUST292,Beauty,Sunscreen,3,1010,0.05,3030,2878.5,North,Website,UPI,5.0
+ORD0128,2025-01-18,CUST218,Home & Kitchen,Coffee Maker,2,11490,0.0,22980,22980.0,West,Mobile App,COD,0.0
+ORD0129,2025-06-24,CUST213,Home & Kitchen,Mixer Grinder,2,2799,0.1,5598,5038.2,South,Website,UPI,10.0
+ORD0130,2025-02-02,CUST158,Electronics,Smartphone,5,17268,0.0,86340,86340.0,South,Website,Credit Card,0.0
+ORD0131,2025-04-21,CUST188,Home & Kitchen,Cookware Set,5,10888,0.2,54440,43552.0,West,Mobile App,UPI,20.0
+ORD0132,2025-12-10,CUST285,Beauty,Face Serum,2,1206,0.2,2412,1929.6,East,Mobile App,Debit Card,20.0
+ORD0133,2025-01-30,CUST231,Beauty,Face Serum,2,490,0.1,980,882.0,East,Marketplace,Credit Card,10.0
+ORD0134,2025-11-01,CUST250,Fashion,Jeans,3,598,0.05,1794,1704.3,West,Mobile App,UPI,5.0
+ORD0135,2025-09-23,CUST262,Home & Kitchen,Cookware Set,1,3689,0.0,3689,3689.0,South,Website,Debit Card,0.0
+ORD0136,2025-11-17,CUST233,Electronics,Laptop,4,10274,0.05,41096,39041.2,East,Marketplace,Credit Card,5.0
+ORD0137,2025-04-19,CUST182,Home & Kitchen,Air Fryer,1,11322,0.15,11322,9623.7,East,Website,Debit Card,15.0
+ORD0138,2025-05-24,CUST145,Beauty,Moisturizer,3,1063,0.0,3189,3189.0,West,Website,Debit Card,0.0
+ORD0139,2025-02-23,CUST318,Fashion,Backpack,1,1156,0.05,1156,1098.2,North,Mobile App,UPI,5.0
+ORD0140,2025-01-01,CUST232,Electronics,Smartwatch,2,59654,0.1,119308,107377.2,East,Mobile App,UPI,10.0
+ORD0141,2025-02-22,CUST307,Fashion,Backpack,5,4260,0.0,21300,21300.0,West,Marketplace,Credit Card,0.0
+ORD0142,2025-12-07,CUST259,Beauty,Face Serum,2,1729,0.15,3458,2939.3,West,Marketplace,Credit Card,15.0
+ORD0143,2025-07-13,CUST170,Home & Kitchen,Cookware Set,3,7920,0.2,23760,19008.0,South,Marketplace,UPI,20.0
+ORD0144,2025-10-19,CUST138,Home & Kitchen,Mixer Grinder,1,2421,0.05,2421,2299.95,West,Mobile App,Credit Card,5.0
+ORD0145,2025-09-20,CUST253,Beauty,Moisturizer,3,1731,0.1,5193,4673.7,West,Mobile App,Credit Card,10.0
+ORD0146,2025-02-03,CUST172,Beauty,Face Serum,4,1563,0.1,6252,5626.8,West,Marketplace,Net Banking,10.0
+ORD0147,2025-06-15,CUST278,Home & Kitchen,Cookware Set,3,8157,0.2,24471,19576.8,South,Marketplace,Net Banking,20.0
+ORD0148,2025-11-23,CUST182,Home & Kitchen,Mixer Grinder,3,8833,0.2,26499,21199.2,South,Website,Net Banking,20.0
+ORD0149,2025-09-12,CUST181,Beauty,Shampoo,3,831,0.0,2493,2493.0,East,Website,Net Banking,0.0
+ORD0150,2025-04-22,CUST334,Sports,Dumbbells,1,1785,0.15,1785,1517.25,West,Marketplace,Credit Card,15.0
+ORD0151,2025-03-04,CUST170,Fashion,Sneakers,1,1690,0.05,1690,1605.5,East,Marketplace,COD,5.0
+ORD0152,2025-12-17,CUST286,Sports,Yoga Mat,3,6693,0.15,20079,17067.15,South,Website,Net Banking,15.0
+ORD0153,2025-09-20,CUST234,Electronics,Smartphone,5,34632,0.0,173160,173160.0,South,Marketplace,COD,0.0
+ORD0154,2025-05-13,CUST314,Fashion,Sneakers,3,1909,0.05,5727,5440.65,East,Marketplace,Debit Card,5.0
+ORD0155,2025-10-24,CUST179,Beauty,Moisturizer,2,1156,0.2,2312,1849.6,West,Marketplace,COD,20.0
+ORD0156,2025-12-30,CUST274,Electronics,Headphones,4,16536,0.1,66144,59529.6,North,Mobile App,Net Banking,10.0
+ORD0157,2025-04-22,CUST264,Sports,Running Shoes,2,3164,0.05,6328,6011.6,West,Website,COD,5.0
+ORD0158,2025-05-14,CUST158,Beauty,Face Serum,1,1272,0.2,1272,1017.6,North,Marketplace,Net Banking,20.0
+ORD0159,2025-02-12,CUST106,Sports,Yoga Mat,2,1751,0.0,3502,3502.0,South,Mobile App,Net Banking,0.0
+ORD0160,2025-04-16,CUST162,Fashion,Backpack,5,3107,0.15,15535,13204.75,South,Mobile App,COD,15.0
+ORD0161,2025-06-15,CUST226,Home & Kitchen,Coffee Maker,1,10107,0.1,10107,9096.3,East,Website,Debit Card,10.0
+ORD0162,2025-10-18,CUST126,Home & Kitchen,Coffee Maker,4,11910,0.1,47640,42876.0,North,Marketplace,Net Banking,10.0
+ORD0163,2025-04-27,CUST192,Electronics,Smartwatch,2,20568,0.0,41136,41136.0,East,Marketplace,Credit Card,0.0
+ORD0164,2025-09-06,CUST158,Home & Kitchen,Cookware Set,5,9979,0.05,49895,47400.25,East,Marketplace,COD,5.0
+ORD0165,2025-03-23,CUST181,Electronics,Smartphone,5,18700,0.0,93500,93500.0,North,Website,Debit Card,0.0
+ORD0166,2025-07-06,CUST124,Home & Kitchen,Air Fryer,1,705,0.15,705,599.25,North,Mobile App,Net Banking,15.0
+ORD0167,2025-05-05,CUST238,Sports,Football,1,6095,0.2,6095,4876.0,East,Mobile App,COD,20.0
+ORD0168,2025-06-04,CUST150,Electronics,Laptop,2,36281,0.15,72562,61677.7,East,Mobile App,Net Banking,15.0
+ORD0169,2025-04-23,CUST340,Sports,Running Shoes,2,1854,0.15,3708,3151.8,North,Marketplace,UPI,15.0
+ORD0170,2025-03-01,CUST313,Home & Kitchen,Air Fryer,1,10001,0.2,10001,8000.8,North,Marketplace,Net Banking,20.0
+ORD0171,2025-12-02,CUST213,Electronics,Smartphone,2,13405,0.2,26810,21448.0,North,Mobile App,Credit Card,20.0
+ORD0172,2025-12-12,CUST195,Beauty,Moisturizer,2,264,0.1,528,475.2,West,Mobile App,Net Banking,10.0
+ORD0173,2025-07-13,CUST172,Beauty,Face Serum,1,1087,0.05,1087,1032.65,South,Website,Net Banking,5.0
+ORD0174,2025-05-08,CUST140,Electronics,Smartwatch,3,11770,0.1,35310,31779.0,South,Mobile App,Debit Card,10.0
+ORD0175,2025-11-05,CUST293,Sports,Dumbbells,1,1879,0.2,1879,1503.2,East,Marketplace,UPI,20.0
+ORD0176,2025-02-04,CUST185,Fashion,Backpack,3,2583,0.0,7749,7749.0,North,Mobile App,Debit Card,0.0
+ORD0177,2025-04-20,CUST126,Beauty,Face Serum,4,2257,0.05,9028,8576.6,South,Mobile App,UPI,5.0
+ORD0178,2025-08-26,CUST231,Electronics,Laptop,5,13194,0.0,65970,65970.0,South,Mobile App,Credit Card,0.0
+ORD0179,2025-06-02,CUST288,Fashion,Sneakers,2,3617,0.0,7234,7234.0,North,Website,UPI,0.0
+ORD0180,2025-05-29,CUST272,Beauty,Moisturizer,1,2415,0.2,2415,1932.0,East,Website,COD,20.0
+ORD0181,2025-03-18,CUST328,Beauty,Face Serum,3,1303,0.1,3909,3518.1,West,Marketplace,UPI,10.0
+ORD0182,2025-04-30,CUST301,Fashion,Backpack,3,4799,0.05,14397,13677.15,South,Marketplace,Debit Card,5.0
+ORD0183,2025-08-27,CUST107,Beauty,Face Serum,2,2459,0.2,4918,3934.4,East,Mobile App,Credit Card,20.0
+ORD0184,2025-06-10,CUST282,Sports,Running Shoes,3,6524,0.2,19572,15657.6,South,Marketplace,Credit Card,20.0
+ORD0185,2025-12-20,CUST192,Home & Kitchen,Mixer Grinder,3,5918,0.1,17754,15978.6,South,Marketplace,Credit Card,10.0
+ORD0186,2025-07-14,CUST315,Electronics,Smartphone,1,21119,0.05,21119,20063.05,North,Marketplace,Debit Card,5.0
+ORD0187,2025-07-14,CUST126,Sports,Football,2,6528,0.1,13056,11750.4,East,Marketplace,UPI,10.0
+ORD0188,2025-11-06,CUST254,Sports,Football,2,4263,0.0,8526,8526.0,North,Marketplace,Net Banking,0.0
+ORD0189,2025-01-31,CUST150,Fashion,Sneakers,1,1501,0.1,1501,1350.9,South,Mobile App,UPI,10.0
+ORD0190,2025-12-08,CUST114,Beauty,Sunscreen,2,2473,0.1,4946,4451.4,South,Marketplace,UPI,10.0
+ORD0191,2025-02-24,CUST297,Beauty,Sunscreen,3,791,0.2,2373,1898.4,West,Marketplace,UPI,20.0
+ORD0192,2025-12-18,CUST226,Fashion,Sneakers,5,2192,0.2,10960,8768.0,South,Website,Debit Card,20.0
+ORD0193,2025-09-24,CUST132,Sports,Football,4,2904,0.1,11616,10454.4,North,Marketplace,Net Banking,10.0
+ORD0194,2025-01-26,CUST335,Home & Kitchen,Cookware Set,2,4132,0.0,8264,8264.0,East,Mobile App,Debit Card,0.0
+ORD0195,2025-07-31,CUST134,Beauty,Moisturizer,1,505,0.15,505,429.25,North,Mobile App,Debit Card,15.0
+ORD0196,2025-12-06,CUST146,Fashion,Sneakers,2,2664,0.05,5328,5061.6,North,Mobile App,COD,5.0
+ORD0197,2025-03-23,CUST347,Electronics,Smartphone,5,28021,0.15,140105,119089.25,West,Marketplace,Net Banking,15.0
+ORD0198,2025-02-18,CUST219,Home & Kitchen,Mixer Grinder,3,1105,0.2,3315,2652.0,West,Mobile App,UPI,20.0
+ORD0199,2025-07-18,CUST290,Home & Kitchen,Coffee Maker,2,10903,0.2,21806,17444.8,West,Marketplace,UPI,20.0
+ORD0200,2025-01-02,CUST317,Home & Kitchen,Air Fryer,5,2460,0.2,12300,9840.0,East,Marketplace,Credit Card,20.0
+ORD0201,2025-12-28,CUST228,Sports,Running Shoes,1,2519,0.0,2519,2519.0,South,Website,COD,0.0
+ORD0202,2025-09-03,CUST254,Electronics,Laptop,5,9857,0.2,49285,39428.0,West,Mobile App,COD,20.0
+ORD0203,2025-12-03,CUST153,Sports,Yoga Mat,4,4032,0.2,16128,12902.4,West,Mobile App,Net Banking,20.0
+ORD0204,2025-06-16,CUST128,Sports,Running Shoes,3,2850,0.05,8550,8122.5,North,Marketplace,UPI,5.0
+ORD0205,2025-09-22,CUST178,Beauty,Sunscreen,3,2129,0.0,6387,6387.0,North,Marketplace,Credit Card,0.0
+ORD0206,2025-10-26,CUST110,Home & Kitchen,Cookware Set,2,6528,0.2,13056,10444.8,North,Mobile App,UPI,20.0
+ORD0207,2025-12-07,CUST165,Home & Kitchen,Air Fryer,1,2904,0.2,2904,2323.2,East,Mobile App,Net Banking,20.0
+ORD0208,2025-07-05,CUST131,Sports,Yoga Mat,5,6116,0.2,30580,24464.0,South,Website,UPI,20.0
+ORD0209,2025-05-29,CUST130,Beauty,Face Serum,3,2161,0.15,6483,5510.55,East,Mobile App,UPI,15.0
+ORD0210,2025-03-09,CUST291,Sports,Running Shoes,4,3325,0.05,13300,12635.0,East,Marketplace,UPI,5.0
+ORD0211,2025-10-06,CUST107,Sports,Football,1,3734,0.1,3734,3360.6,East,Marketplace,Debit Card,10.0
+ORD0212,2025-02-06,CUST283,Home & Kitchen,Cookware Set,3,6100,0.0,18300,18300.0,East,Website,Credit Card,0.0
+ORD0213,2025-08-12,CUST170,Sports,Dumbbells,1,3548,0.2,3548,2838.4,South,Marketplace,UPI,20.0
+ORD0214,2025-09-20,CUST148,Fashion,Backpack,4,2497,0.15,9988,8489.8,West,Marketplace,Net Banking,15.0
+ORD0215,2025-06-08,CUST249,Home & Kitchen,Mixer Grinder,4,8291,0.05,33164,31505.8,South,Mobile App,COD,5.0
+ORD0216,2025-01-17,CUST187,Home & Kitchen,Coffee Maker,4,5894,0.15,23576,20039.6,North,Mobile App,UPI,15.0
+ORD0217,2025-02-11,CUST124,Home & Kitchen,Coffee Maker,4,10809,0.0,43236,43236.0,West,Marketplace,UPI,0.0
+ORD0218,2025-05-25,CUST142,Home & Kitchen,Air Fryer,2,6682,0.15,13364,11359.4,East,Marketplace,UPI,15.0
+ORD0219,2025-10-15,CUST195,Sports,Running Shoes,3,2277,0.05,6831,6489.45,North,Marketplace,Debit Card,5.0
+ORD0220,2025-02-24,CUST127,Fashion,Sneakers,1,3075,0.15,3075,2613.75,West,Website,Debit Card,15.0
+ORD0221,2025-04-12,CUST185,Beauty,Sunscreen,2,658,0.1,1316,1184.4,South,Marketplace,Credit Card,10.0
+ORD0222,2025-03-05,CUST275,Fashion,Backpack,2,466,0.1,932,838.8,South,Marketplace,Credit Card,10.0
+ORD0223,2025-07-16,CUST105,Fashion,T-Shirt,4,3290,0.15,13160,11186.0,West,Mobile App,COD,15.0
+ORD0224,2025-06-10,CUST290,Beauty,Moisturizer,5,1384,0.1,6920,6228.0,North,Marketplace,UPI,10.0
+ORD0225,2025-06-21,CUST260,Beauty,Shampoo,3,1265,0.1,3795,3415.5,West,Marketplace,UPI,10.0
+ORD0226,2025-03-13,CUST129,Sports,Yoga Mat,4,6966,0.2,27864,22291.2,West,Website,Credit Card,20.0
+ORD0227,2025-10-01,CUST348,Electronics,Smartphone,2,53762,0.05,107524,102147.8,East,Mobile App,Credit Card,5.0
+ORD0228,2025-03-23,CUST114,Home & Kitchen,Air Fryer,1,1354,0.1,1354,1218.6,West,Website,Net Banking,10.0
+ORD0229,2025-09-28,CUST292,Sports,Yoga Mat,1,2220,0.2,2220,1776.0,North,Website,Net Banking,20.0
+ORD0230,2025-06-03,CUST101,Fashion,Backpack,2,2983,0.05,5966,5667.7,South,Marketplace,Debit Card,5.0
+ORD0231,2025-10-11,CUST310,Sports,Running Shoes,4,2959,0.2,11836,9468.8,North,Marketplace,UPI,20.0
+ORD0232,2025-05-13,CUST282,Beauty,Moisturizer,5,719,0.1,3595,3235.5,West,Marketplace,UPI,10.0
+ORD0233,2025-05-04,CUST241,Electronics,Smartphone,4,11674,0.0,46696,46696.0,South,Mobile App,Debit Card,0.0
+ORD0234,2025-07-12,CUST263,Sports,Football,4,6889,0.1,27556,24800.4,South,Website,COD,10.0
+ORD0235,2025-12-29,CUST132,Electronics,Laptop,4,7296,0.1,29184,26265.6,North,Website,UPI,10.0
+ORD0236,2025-03-28,CUST259,Beauty,Shampoo,2,726,0.2,1452,1161.6,South,Mobile App,Credit Card,20.0
+ORD0237,2025-04-11,CUST200,Electronics,Smartphone,1,3292,0.05,3292,3127.4,West,Mobile App,Credit Card,5.0
+ORD0238,2025-02-01,CUST198,Home & Kitchen,Air Fryer,1,7923,0.05,7923,7526.85,West,Mobile App,COD,5.0
+ORD0239,2025-01-27,CUST124,Home & Kitchen,Cookware Set,2,1271,0.05,2542,2414.9,East,Mobile App,Net Banking,5.0
+ORD0240,2025-02-14,CUST114,Sports,Yoga Mat,4,5234,0.1,20936,18842.4,West,Website,Debit Card,10.0
+ORD0241,2025-01-17,CUST346,Fashion,Sneakers,5,2348,0.0,11740,11740.0,North,Website,Debit Card,0.0
+ORD0242,2025-07-04,CUST299,Sports,Dumbbells,3,5614,0.2,16842,13473.6,North,Marketplace,Net Banking,20.0
+ORD0243,2025-04-03,CUST101,Home & Kitchen,Coffee Maker,3,2830,0.2,8490,6792.0,East,Marketplace,COD,20.0
+ORD0244,2025-05-24,CUST155,Electronics,Smartwatch,2,24270,0.2,48540,38832.0,North,Mobile App,Debit Card,20.0
+ORD0245,2025-02-05,CUST220,Sports,Football,2,2988,0.2,5976,4780.8,West,Marketplace,Credit Card,20.0
+ORD0246,2025-03-17,CUST336,Home & Kitchen,Cookware Set,2,7551,0.2,15102,12081.6,North,Mobile App,Credit Card,20.0
+ORD0247,2025-04-27,CUST304,Fashion,Sneakers,3,2481,0.05,7443,7070.85,West,Marketplace,UPI,5.0
+ORD0248,2025-06-01,CUST231,Fashion,Jeans,5,2878,0.05,14390,13670.5,West,Website,Net Banking,5.0
+ORD0249,2025-04-19,CUST298,Sports,Football,2,5565,0.05,11130,10573.5,North,Mobile App,UPI,5.0
+ORD0250,2025-06-11,CUST125,Home & Kitchen,Cookware Set,4,7881,0.1,31524,28371.6,South,Website,Debit Card,10.0
+ORD0251,2025-04-24,CUST342,Electronics,Headphones,2,2893,0.05,5786,5496.7,East,Website,UPI,5.0
+ORD0252,2025-03-03,CUST172,Home & Kitchen,Cookware Set,5,11117,0.0,55585,55585.0,North,Website,UPI,0.0
+ORD0253,2025-05-19,CUST231,Electronics,Laptop,1,5672,0.0,5672,5672.0,West,Marketplace,Debit Card,0.0
+ORD0254,2025-01-14,CUST334,Electronics,Smartwatch,4,27669,0.1,110676,99608.4,East,Mobile App,Debit Card,10.0
+ORD0255,2025-03-03,CUST205,Sports,Running Shoes,3,5677,0.05,17031,16179.45,North,Marketplace,Credit Card,5.0
+ORD0256,2025-09-09,CUST320,Sports,Football,2,6066,0.0,12132,12132.0,West,Website,Credit Card,0.0
+ORD0257,2025-06-15,CUST162,Sports,Yoga Mat,4,2417,0.1,9668,8701.2,South,Mobile App,Debit Card,10.0
+ORD0258,2025-06-12,CUST254,Home & Kitchen,Coffee Maker,4,7746,0.15,30984,26336.4,East,Mobile App,Net Banking,15.0
+ORD0259,2025-10-02,CUST182,Sports,Yoga Mat,3,1063,0.05,3189,3029.55,South,Marketplace,Net Banking,5.0
+ORD0260,2025-11-05,CUST235,Sports,Yoga Mat,5,5442,0.1,27210,24489.0,South,Website,Net Banking,10.0
+ORD0261,2025-12-06,CUST130,Sports,Football,3,4412,0.15,13236,11250.6,North,Mobile App,Debit Card,15.0
+ORD0262,2025-07-07,CUST228,Sports,Running Shoes,5,3544,0.2,17720,14176.0,South,Mobile App,UPI,20.0
+ORD0263,2025-02-22,CUST234,Beauty,Face Serum,1,1703,0.15,1703,1447.55,East,Marketplace,UPI,15.0
+ORD0264,2025-12-23,CUST148,Home & Kitchen,Coffee Maker,1,11334,0.15,11334,9633.9,South,Mobile App,Net Banking,15.0
+ORD0265,2025-04-16,CUST139,Home & Kitchen,Mixer Grinder,4,3306,0.1,13224,11901.6,West,Mobile App,COD,10.0
+ORD0266,2025-10-22,CUST259,Home & Kitchen,Cookware Set,2,3941,0.05,7882,7487.9,East,Marketplace,COD,5.0
+ORD0267,2025-02-09,CUST180,Electronics,Smartwatch,3,23344,0.2,70032,56025.6,North,Mobile App,Debit Card,20.0
+ORD0268,2025-03-24,CUST329,Sports,Football,2,6906,0.2,13812,11049.6,West,Mobile App,Net Banking,20.0
+ORD0269,2025-01-14,CUST243,Fashion,Jeans,2,1202,0.1,2404,2163.6,East,Mobile App,Debit Card,10.0
+ORD0270,2025-10-22,CUST233,Sports,Dumbbells,2,1326,0.0,2652,2652.0,West,Marketplace,Debit Card,0.0
+ORD0271,2025-02-08,CUST128,Electronics,Laptop,4,64031,0.05,256124,243317.8,North,Website,Net Banking,5.0
+ORD0272,2025-09-08,CUST105,Fashion,Jeans,1,4103,0.0,4103,4103.0,West,Website,UPI,0.0
+ORD0273,2025-03-25,CUST256,Beauty,Moisturizer,3,1110,0.2,3330,2664.0,West,Website,UPI,20.0
+ORD0274,2025-08-05,CUST302,Beauty,Face Serum,5,1783,0.05,8915,8469.25,East,Website,Net Banking,5.0
+ORD0275,2025-12-17,CUST292,Electronics,Headphones,5,56862,0.1,284310,255879.0,South,Marketplace,Credit Card,10.0
+ORD0276,2025-02-08,CUST235,Sports,Yoga Mat,2,619,0.1,1238,1114.2,East,Website,Net Banking,10.0
+ORD0277,2025-07-10,CUST255,Sports,Football,5,1168,0.1,5840,5256.0,East,Marketplace,Credit Card,10.0
+ORD0278,2025-11-12,CUST134,Electronics,Laptop,2,38150,0.0,76300,76300.0,West,Mobile App,COD,0.0
+ORD0279,2025-08-11,CUST227,Beauty,Face Serum,5,933,0.2,4665,3732.0,North,Marketplace,Net Banking,20.0
+ORD0280,2025-03-13,CUST116,Sports,Football,5,4077,0.0,20385,20385.0,West,Website,Net Banking,0.0
+ORD0281,2025-06-25,CUST277,Fashion,Sneakers,3,3448,0.15,10344,8792.4,North,Marketplace,Net Banking,15.0
+ORD0282,2025-07-11,CUST132,Electronics,Smartwatch,3,47476,0.2,142428,113942.4,East,Website,Credit Card,20.0
+ORD0283,2025-05-18,CUST124,Fashion,T-Shirt,2,2796,0.15,5592,4753.2,North,Marketplace,COD,15.0
+ORD0284,2025-03-14,CUST131,Sports,Running Shoes,5,4521,0.2,22605,18084.0,South,Website,Net Banking,20.0
+ORD0285,2025-07-17,CUST177,Sports,Football,1,4882,0.05,4882,4637.9,North,Mobile App,Debit Card,5.0
+ORD0286,2025-02-21,CUST179,Sports,Football,2,5997,0.1,11994,10794.6,West,Website,Debit Card,10.0
+ORD0287,2025-04-02,CUST170,Fashion,Backpack,4,3571,0.1,14284,12855.6,North,Website,UPI,10.0
+ORD0288,2025-02-18,CUST272,Electronics,Headphones,1,36075,0.1,36075,32467.5,South,Mobile App,Debit Card,10.0
+ORD0289,2025-06-05,CUST289,Home & Kitchen,Mixer Grinder,1,7642,0.15,7642,6495.7,North,Mobile App,UPI,15.0
+ORD0290,2025-05-03,CUST311,Beauty,Face Serum,3,1970,0.05,5910,5614.5,East,Website,Debit Card,5.0
+ORD0291,2025-08-19,CUST124,Electronics,Laptop,3,49610,0.0,148830,148830.0,West,Marketplace,COD,0.0
+ORD0292,2025-12-24,CUST225,Home & Kitchen,Air Fryer,4,9331,0.15,37324,31725.4,East,Website,COD,15.0
+ORD0293,2025-09-27,CUST298,Fashion,Backpack,1,2866,0.0,2866,2866.0,South,Website,COD,0.0
+ORD0294,2025-01-29,CUST137,Electronics,Laptop,3,8303,0.1,24909,22418.1,West,Website,Debit Card,10.0
+ORD0295,2025-03-17,CUST111,Electronics,Laptop,1,47682,0.1,47682,42913.8,North,Mobile App,Debit Card,10.0
+ORD0296,2025-09-24,CUST281,Electronics,Smartwatch,3,64178,0.1,192534,173280.6,West,Website,Debit Card,10.0
+ORD0297,2025-05-31,CUST156,Electronics,Smartphone,5,56320,0.2,281600,225280.0,North,Marketplace,Credit Card,20.0
+ORD0298,2025-05-28,CUST226,Electronics,Laptop,2,37385,0.0,74770,74770.0,East,Mobile App,Credit Card,0.0
+ORD0299,2025-05-27,CUST125,Beauty,Shampoo,2,1285,0.05,2570,2441.5,West,Website,Debit Card,5.0
+ORD0300,2025-01-16,CUST238,Home & Kitchen,Air Fryer,5,4571,0.1,22855,20569.5,North,Marketplace,Credit Card,10.0
+ORD0301,2025-05-06,CUST137,Sports,Dumbbells,1,6589,0.15,6589,5600.65,East,Mobile App,Net Banking,15.0
+ORD0302,2025-06-28,CUST295,Sports,Football,2,3874,0.1,7748,6973.2,North,Mobile App,Net Banking,10.0
+ORD0303,2025-01-27,CUST289,Home & Kitchen,Air Fryer,5,3689,0.0,18445,18445.0,North,Mobile App,Credit Card,0.0
+ORD0304,2025-05-09,CUST345,Fashion,T-Shirt,2,2323,0.05,4646,4413.7,South,Mobile App,Credit Card,5.0
+ORD0305,2025-08-09,CUST187,Home & Kitchen,Air Fryer,1,2983,0.2,2983,2386.4,West,Website,Debit Card,20.0
+ORD0306,2025-12-07,CUST219,Sports,Dumbbells,2,5470,0.2,10940,8752.0,West,Website,Debit Card,20.0
+ORD0307,2025-09-18,CUST331,Electronics,Smartwatch,5,50106,0.0,250530,250530.0,West,Mobile App,Net Banking,0.0
+ORD0308,2025-04-11,CUST300,Electronics,Laptop,4,10232,0.15,40928,34788.8,East,Mobile App,COD,15.0
+ORD0309,2025-10-02,CUST215,Home & Kitchen,Air Fryer,2,5380,0.1,10760,9684.0,South,Marketplace,Credit Card,10.0
+ORD0310,2025-01-18,CUST289,Fashion,Jeans,5,4617,0.1,23085,20776.5,South,Marketplace,Debit Card,10.0
+ORD0311,2025-06-20,CUST252,Electronics,Smartphone,2,25466,0.05,50932,48385.4,East,Mobile App,Debit Card,5.0
+ORD0312,2025-12-19,CUST244,Beauty,Sunscreen,2,267,0.2,534,427.2,West,Website,UPI,20.0
+ORD0313,2025-07-23,CUST141,Fashion,Sneakers,1,1856,0.05,1856,1763.2,West,Marketplace,UPI,5.0
+ORD0314,2025-05-20,CUST103,Home & Kitchen,Coffee Maker,4,1364,0.2,5456,4364.8,North,Mobile App,Debit Card,20.0
+ORD0315,2025-01-26,CUST164,Home & Kitchen,Mixer Grinder,4,2041,0.2,8164,6531.2,North,Website,Credit Card,20.0
+ORD0316,2025-05-02,CUST280,Electronics,Headphones,4,32830,0.0,131320,131320.0,West,Marketplace,Debit Card,0.0
+ORD0317,2025-04-04,CUST246,Home & Kitchen,Cookware Set,3,11122,0.0,33366,33366.0,West,Mobile App,COD,0.0
+ORD0318,2025-04-30,CUST237,Home & Kitchen,Mixer Grinder,2,5812,0.0,11624,11624.0,West,Marketplace,Credit Card,0.0
+ORD0319,2025-08-12,CUST247,Beauty,Moisturizer,1,512,0.05,512,486.4,East,Mobile App,UPI,5.0
+ORD0320,2025-11-21,CUST334,Sports,Football,4,1387,0.05,5548,5270.6,South,Marketplace,Debit Card,5.0
+ORD0321,2025-11-02,CUST147,Beauty,Shampoo,1,1472,0.05,1472,1398.4,North,Marketplace,Credit Card,5.0
+ORD0322,2025-05-01,CUST104,Home & Kitchen,Coffee Maker,2,4602,0.15,9204,7823.4,South,Website,Debit Card,15.0
+ORD0323,2025-04-20,CUST277,Home & Kitchen,Cookware Set,3,10980,0.0,32940,32940.0,South,Marketplace,Net Banking,0.0
+ORD0324,2025-10-20,CUST276,Beauty,Sunscreen,3,1248,0.0,3744,3744.0,West,Website,Debit Card,0.0
+ORD0325,2025-11-01,CUST247,Electronics,Headphones,5,39604,0.15,198020,168317.0,West,Mobile App,COD,15.0
+ORD0326,2025-02-06,CUST222,Electronics,Laptop,3,46607,0.15,139821,118847.85,South,Website,UPI,15.0
+ORD0327,2025-09-15,CUST277,Fashion,Jeans,4,2676,0.2,10704,8563.2,West,Website,UPI,20.0
+ORD0328,2025-03-12,CUST251,Home & Kitchen,Mixer Grinder,5,8702,0.05,43510,41334.5,South,Marketplace,UPI,5.0
+ORD0329,2025-08-14,CUST178,Electronics,Headphones,1,58619,0.2,58619,46895.2,West,Website,Debit Card,20.0
+ORD0330,2025-11-15,CUST173,Home & Kitchen,Mixer Grinder,3,4368,0.1,13104,11793.6,East,Mobile App,COD,10.0
+ORD0331,2025-10-29,CUST136,Sports,Football,1,1674,0.05,1674,1590.3,South,Website,UPI,5.0
+ORD0332,2025-10-28,CUST106,Electronics,Smartwatch,3,40697,0.0,122091,122091.0,South,Marketplace,UPI,0.0
+ORD0333,2025-05-26,CUST205,Home & Kitchen,Mixer Grinder,5,3061,0.1,15305,13774.5,South,Marketplace,Debit Card,10.0
+ORD0334,2025-04-25,CUST152,Electronics,Smartphone,5,21203,0.15,106015,90112.75,West,Marketplace,Credit Card,15.0
+ORD0335,2025-08-27,CUST337,Beauty,Moisturizer,1,1819,0.15,1819,1546.15,South,Website,Net Banking,15.0
+ORD0336,2025-12-28,CUST322,Electronics,Laptop,5,46516,0.0,232580,232580.0,North,Mobile App,COD,0.0
+ORD0337,2025-06-21,CUST107,Sports,Yoga Mat,3,5670,0.1,17010,15309.0,East,Marketplace,COD,10.0
+ORD0338,2025-07-28,CUST128,Beauty,Face Serum,5,903,0.2,4515,3612.0,East,Marketplace,Net Banking,20.0
+ORD0339,2025-10-30,CUST206,Sports,Running Shoes,3,3889,0.1,11667,10500.3,South,Marketplace,Credit Card,10.0
+ORD0340,2025-11-12,CUST243,Sports,Running Shoes,2,6168,0.15,12336,10485.6,North,Mobile App,Net Banking,15.0
+ORD0341,2025-02-05,CUST173,Fashion,Backpack,2,922,0.0,1844,1844.0,West,Website,COD,0.0
+ORD0342,2025-05-03,CUST311,Home & Kitchen,Air Fryer,4,1512,0.15,6048,5140.8,South,Mobile App,UPI,15.0
+ORD0343,2025-03-13,CUST197,Home & Kitchen,Coffee Maker,5,3611,0.0,18055,18055.0,East,Mobile App,Debit Card,0.0
+ORD0344,2025-09-10,CUST231,Home & Kitchen,Cookware Set,4,10785,0.05,43140,40983.0,East,Marketplace,Credit Card,5.0
+ORD0345,2025-07-14,CUST149,Fashion,Jeans,5,2697,0.1,13485,12136.5,East,Marketplace,Debit Card,10.0
+ORD0346,2025-05-23,CUST290,Home & Kitchen,Air Fryer,2,6662,0.2,13324,10659.2,North,Website,UPI,20.0
+ORD0347,2025-11-02,CUST113,Sports,Football,1,5217,0.0,5217,5217.0,East,Marketplace,Net Banking,0.0
+ORD0348,2025-01-22,CUST330,Home & Kitchen,Cookware Set,5,8817,0.05,44085,41880.75,East,Website,COD,5.0
+ORD0349,2025-03-11,CUST224,Electronics,Headphones,4,27879,0.2,111516,89212.8,North,Website,Credit Card,20.0
+ORD0350,2025-05-04,CUST312,Sports,Dumbbells,3,818,0.1,2454,2208.6,East,Marketplace,Debit Card,10.0
+ORD0351,2025-08-15,CUST336,Home & Kitchen,Coffee Maker,4,7949,0.15,31796,27026.6,East,Website,Net Banking,15.0
+ORD0352,2025-02-08,CUST182,Sports,Yoga Mat,2,6174,0.15,12348,10495.8,North,Mobile App,Debit Card,15.0
+ORD0353,2025-01-06,CUST173,Electronics,Laptop,4,58643,0.1,234572,211114.8,South,Marketplace,Debit Card,10.0
+ORD0354,2025-01-14,CUST295,Fashion,Backpack,4,1919,0.0,7676,7676.0,North,Mobile App,UPI,0.0
+ORD0355,2025-12-02,CUST156,Electronics,Smartphone,5,25923,0.0,129615,129615.0,South,Website,COD,0.0
+ORD0356,2025-11-02,CUST325,Fashion,Jeans,4,4648,0.15,18592,15803.2,West,Website,Debit Card,15.0
+ORD0357,2025-12-19,CUST260,Electronics,Laptop,5,60686,0.1,303430,273087.0,North,Marketplace,COD,10.0
+ORD0358,2025-03-14,CUST279,Sports,Running Shoes,1,6678,0.2,6678,5342.4,South,Marketplace,UPI,20.0
+ORD0359,2025-08-29,CUST270,Beauty,Sunscreen,5,2006,0.1,10030,9027.0,South,Marketplace,UPI,10.0
+ORD0360,2025-09-14,CUST328,Home & Kitchen,Air Fryer,2,10154,0.05,20308,19292.6,East,Marketplace,Credit Card,5.0
+ORD0361,2025-05-26,CUST208,Home & Kitchen,Air Fryer,3,4859,0.2,14577,11661.6,North,Marketplace,COD,20.0
+ORD0362,2025-12-12,CUST228,Electronics,Smartwatch,5,17915,0.15,89575,76138.75,East,Mobile App,UPI,15.0
+ORD0363,2025-11-28,CUST301,Electronics,Smartwatch,3,12834,0.0,38502,38502.0,East,Website,Debit Card,0.0
+ORD0364,2025-07-09,CUST111,Electronics,Smartphone,2,54280,0.05,108560,103132.0,West,Mobile App,UPI,5.0
+ORD0365,2025-12-09,CUST289,Sports,Running Shoes,2,3745,0.15,7490,6366.5,West,Website,Credit Card,15.0
+ORD0366,2025-12-29,CUST303,Beauty,Moisturizer,1,824,0.0,824,824.0,East,Mobile App,Net Banking,0.0
+ORD0367,2025-04-01,CUST281,Electronics,Headphones,3,44578,0.0,133734,133734.0,North,Mobile App,Net Banking,0.0
+ORD0368,2025-05-18,CUST192,Electronics,Smartwatch,1,43425,0.2,43425,34740.0,East,Website,Net Banking,20.0
+ORD0369,2025-10-20,CUST171,Home & Kitchen,Coffee Maker,5,2081,0.0,10405,10405.0,West,Mobile App,UPI,0.0
+ORD0370,2025-05-09,CUST150,Sports,Yoga Mat,1,2673,0.0,2673,2673.0,South,Website,Debit Card,0.0
+ORD0371,2025-08-21,CUST283,Fashion,Backpack,5,4163,0.05,20815,19774.25,West,Mobile App,UPI,5.0
+ORD0372,2025-12-08,CUST230,Home & Kitchen,Mixer Grinder,5,11442,0.15,57210,48628.5,South,Marketplace,Net Banking,15.0
+ORD0373,2025-02-07,CUST112,Beauty,Face Serum,1,2058,0.15,2058,1749.3,South,Website,COD,15.0
+ORD0374,2025-07-12,CUST174,Fashion,Backpack,3,1021,0.1,3063,2756.7,North,Mobile App,COD,10.0
+ORD0375,2025-11-30,CUST246,Beauty,Sunscreen,5,2296,0.05,11480,10906.0,West,Marketplace,Debit Card,5.0
+ORD0376,2025-09-18,CUST348,Electronics,Smartphone,3,23633,0.05,70899,67354.05,North,Mobile App,Debit Card,5.0
+ORD0377,2025-07-18,CUST253,Fashion,Backpack,4,1511,0.1,6044,5439.6,North,Website,COD,10.0
+ORD0378,2025-09-18,CUST166,Home & Kitchen,Air Fryer,4,9287,0.2,37148,29718.4,South,Marketplace,COD,20.0
+ORD0379,2025-12-03,CUST144,Home & Kitchen,Coffee Maker,4,8209,0.2,32836,26268.8,South,Website,COD,20.0
+ORD0380,2025-01-25,CUST234,Home & Kitchen,Coffee Maker,3,11174,0.1,33522,30169.8,North,Marketplace,Credit Card,10.0
+ORD0381,2025-09-09,CUST240,Home & Kitchen,Cookware Set,2,5153,0.1,10306,9275.4,West,Mobile App,COD,10.0
+ORD0382,2025-09-27,CUST171,Sports,Yoga Mat,3,4492,0.1,13476,12128.4,South,Mobile App,Debit Card,10.0
+ORD0383,2025-03-24,CUST116,Home & Kitchen,Coffee Maker,3,6035,0.15,18105,15389.25,South,Mobile App,COD,15.0
+ORD0384,2025-04-10,CUST190,Beauty,Sunscreen,1,1746,0.15,1746,1484.1,North,Marketplace,Net Banking,15.0
+ORD0385,2025-06-27,CUST158,Electronics,Smartphone,3,12288,0.2,36864,29491.2,West,Mobile App,COD,20.0
+ORD0386,2025-10-20,CUST312,Electronics,Laptop,5,36123,0.2,180615,144492.0,East,Marketplace,Debit Card,20.0
+ORD0387,2025-09-24,CUST177,Electronics,Smartphone,5,37164,0.2,185820,148656.0,North,Mobile App,UPI,20.0
+ORD0388,2025-10-20,CUST107,Beauty,Moisturizer,5,926,0.0,4630,4630.0,West,Marketplace,Credit Card,0.0
+ORD0389,2025-07-11,CUST330,Home & Kitchen,Coffee Maker,5,837,0.1,4185,3766.5,West,Website,Credit Card,10.0
+ORD0390,2025-06-06,CUST139,Sports,Running Shoes,1,5600,0.0,5600,5600.0,South,Mobile App,COD,0.0
+ORD0391,2025-09-16,CUST248,Fashion,T-Shirt,2,2940,0.05,5880,5586.0,South,Marketplace,UPI,5.0
+ORD0392,2025-04-04,CUST233,Electronics,Headphones,4,7695,0.2,30780,24624.0,North,Website,Net Banking,20.0
+ORD0393,2025-06-22,CUST347,Fashion,Jeans,4,3945,0.1,15780,14202.0,North,Marketplace,Credit Card,10.0
+ORD0394,2025-07-14,CUST326,Electronics,Headphones,5,8647,0.15,43235,36749.75,West,Mobile App,Net Banking,15.0
+ORD0395,2025-07-26,CUST246,Beauty,Moisturizer,3,1939,0.0,5817,5817.0,South,Website,UPI,0.0
+ORD0396,2025-07-04,CUST171,Beauty,Sunscreen,3,374,0.2,1122,897.6,North,Website,Net Banking,20.0
+ORD0397,2025-02-26,CUST238,Home & Kitchen,Cookware Set,1,9221,0.15,9221,7837.85,East,Website,Credit Card,15.0
+ORD0398,2025-06-23,CUST178,Beauty,Face Serum,1,458,0.05,458,435.1,North,Marketplace,Net Banking,5.0
+ORD0399,2025-09-18,CUST277,Home & Kitchen,Coffee Maker,3,11265,0.2,33795,27036.0,North,Mobile App,Net Banking,20.0
+ORD0400,2025-10-22,CUST233,Home & Kitchen,Cookware Set,5,7250,0.05,36250,34437.5,East,Marketplace,Net Banking,5.0
+ORD0401,2025-01-04,CUST169,Home & Kitchen,Cookware Set,3,1392,0.0,4176,4176.0,North,Mobile App,Credit Card,0.0
+ORD0402,2025-10-19,CUST151,Beauty,Moisturizer,1,299,0.2,299,239.2,East,Mobile App,UPI,20.0
+ORD0403,2025-06-23,CUST127,Beauty,Face Serum,3,1974,0.1,5922,5329.8,West,Marketplace,Credit Card,10.0
+ORD0404,2025-08-11,CUST114,Sports,Dumbbells,1,6874,0.15,6874,5842.9,South,Website,Credit Card,15.0
+ORD0405,2025-07-10,CUST150,Fashion,Backpack,4,2914,0.1,11656,10490.4,West,Marketplace,Net Banking,10.0
+ORD0406,2025-12-14,CUST147,Home & Kitchen,Coffee Maker,4,3756,0.0,15024,15024.0,West,Mobile App,Debit Card,0.0
+ORD0407,2025-10-04,CUST246,Beauty,Shampoo,2,1083,0.05,2166,2057.7,North,Website,Net Banking,5.0
+ORD0408,2025-08-16,CUST234,Sports,Running Shoes,2,5797,0.05,11594,11014.3,West,Website,COD,5.0
+ORD0409,2025-12-16,CUST271,Beauty,Moisturizer,3,264,0.1,792,712.8,East,Website,Credit Card,10.0
+ORD0410,2025-06-01,CUST174,Beauty,Face Serum,3,2146,0.1,6438,5794.2,West,Website,UPI,10.0
+ORD0411,2025-11-22,CUST320,Sports,Dumbbells,3,2122,0.0,6366,6366.0,North,Website,Credit Card,0.0
+ORD0412,2025-05-01,CUST178,Electronics,Smartphone,3,35742,0.0,107226,107226.0,East,Website,Credit Card,0.0
+ORD0413,2025-05-01,CUST276,Beauty,Moisturizer,2,1358,0.0,2716,2716.0,North,Website,UPI,0.0
+ORD0414,2025-07-27,CUST197,Fashion,Backpack,4,3772,0.0,15088,15088.0,West,Mobile App,Credit Card,0.0
+ORD0415,2025-07-25,CUST206,Fashion,Sneakers,3,1813,0.0,5439,5439.0,West,Mobile App,Credit Card,0.0
+ORD0416,2025-04-20,CUST253,Sports,Dumbbells,5,6498,0.1,32490,29241.0,East,Marketplace,UPI,10.0
+ORD0417,2025-02-25,CUST163,Beauty,Moisturizer,4,993,0.05,3972,3773.4,West,Marketplace,UPI,5.0
+ORD0418,2025-10-12,CUST250,Home & Kitchen,Coffee Maker,5,784,0.15,3920,3332.0,North,Website,Debit Card,15.0
+ORD0419,2025-05-31,CUST244,Home & Kitchen,Coffee Maker,3,4826,0.1,14478,13030.2,North,Marketplace,Debit Card,10.0
+ORD0420,2025-12-04,CUST328,Sports,Football,4,2590,0.0,10360,10360.0,North,Mobile App,UPI,0.0
+ORD0421,2025-11-01,CUST286,Electronics,Smartwatch,2,10069,0.05,20138,19131.1,South,Website,Credit Card,5.0
+ORD0422,2025-01-08,CUST146,Beauty,Sunscreen,5,2342,0.15,11710,9953.5,North,Mobile App,COD,15.0
+ORD0423,2025-03-13,CUST270,Sports,Dumbbells,2,576,0.05,1152,1094.4,West,Website,Net Banking,5.0
+ORD0424,2025-11-29,CUST184,Sports,Football,1,2171,0.1,2171,1953.9,South,Marketplace,Credit Card,10.0
+ORD0425,2025-12-29,CUST165,Electronics,Headphones,1,17936,0.0,17936,17936.0,West,Marketplace,Debit Card,0.0
+ORD0426,2025-03-12,CUST143,Beauty,Sunscreen,4,740,0.2,2960,2368.0,East,Marketplace,Credit Card,20.0
+ORD0427,2025-09-20,CUST340,Sports,Yoga Mat,4,2068,0.0,8272,8272.0,East,Marketplace,UPI,0.0
+ORD0428,2025-08-09,CUST316,Home & Kitchen,Coffee Maker,4,9987,0.1,39948,35953.2,East,Website,Debit Card,10.0
+ORD0429,2025-02-18,CUST260,Fashion,Sneakers,2,3248,0.2,6496,5196.8,East,Mobile App,Credit Card,20.0
+ORD0430,2025-01-26,CUST182,Home & Kitchen,Coffee Maker,1,9450,0.0,9450,9450.0,North,Marketplace,Net Banking,0.0
+ORD0431,2025-04-26,CUST319,Home & Kitchen,Mixer Grinder,5,9311,0.05,46555,44227.25,East,Marketplace,COD,5.0
+ORD0432,2025-08-01,CUST248,Home & Kitchen,Air Fryer,2,3351,0.15,6702,5696.7,South,Website,Debit Card,15.0
+ORD0433,2025-06-01,CUST260,Electronics,Smartphone,1,26415,0.15,26415,22452.75,South,Mobile App,Net Banking,15.0
+ORD0434,2025-05-16,CUST279,Home & Kitchen,Air Fryer,2,3300,0.15,6600,5610.0,East,Marketplace,UPI,15.0
+ORD0435,2025-07-30,CUST211,Home & Kitchen,Air Fryer,4,4990,0.15,19960,16966.0,South,Mobile App,Net Banking,15.0
+ORD0436,2025-03-06,CUST151,Home & Kitchen,Cookware Set,3,7960,0.05,23880,22686.0,West,Mobile App,UPI,5.0
+ORD0437,2025-01-10,CUST149,Fashion,Sneakers,4,2521,0.15,10084,8571.4,North,Marketplace,Credit Card,15.0
+ORD0438,2025-03-26,CUST179,Beauty,Shampoo,3,562,0.2,1686,1348.8,South,Website,Debit Card,20.0
+ORD0439,2025-08-26,CUST232,Fashion,Jeans,1,1856,0.0,1856,1856.0,West,Website,COD,0.0
+ORD0440,2025-02-05,CUST121,Beauty,Moisturizer,5,1730,0.15,8650,7352.5,East,Marketplace,Credit Card,15.0
+ORD0441,2025-03-24,CUST234,Home & Kitchen,Air Fryer,1,8150,0.15,8150,6927.5,South,Marketplace,Credit Card,15.0
+ORD0442,2025-09-30,CUST144,Beauty,Shampoo,3,1128,0.2,3384,2707.2,West,Mobile App,COD,20.0
+ORD0443,2025-11-26,CUST139,Electronics,Smartphone,1,18548,0.05,18548,17620.6,North,Marketplace,COD,5.0
+ORD0444,2025-01-20,CUST244,Home & Kitchen,Air Fryer,5,9297,0.15,46485,39512.25,South,Marketplace,Net Banking,15.0
+ORD0445,2025-01-09,CUST248,Beauty,Face Serum,5,1782,0.15,8910,7573.5,East,Website,Debit Card,15.0
+ORD0446,2025-02-25,CUST262,Beauty,Moisturizer,1,2075,0.05,2075,1971.25,North,Marketplace,Credit Card,5.0
+ORD0447,2025-10-16,CUST163,Fashion,Jeans,3,1666,0.1,4998,4498.2,North,Mobile App,Net Banking,10.0
+ORD0448,2025-02-15,CUST168,Sports,Football,3,1139,0.0,3417,3417.0,East,Mobile App,Net Banking,0.0
+ORD0449,2025-07-25,CUST248,Beauty,Sunscreen,1,336,0.05,336,319.2,North,Mobile App,COD,5.0
+ORD0450,2025-04-10,CUST136,Electronics,Laptop,5,27446,0.15,137230,116645.5,West,Website,UPI,15.0
+ORD0451,2025-03-02,CUST220,Home & Kitchen,Air Fryer,3,4698,0.0,14094,14094.0,South,Website,UPI,0.0
+ORD0452,2025-10-13,CUST335,Fashion,T-Shirt,5,953,0.2,4765,3812.0,North,Website,Net Banking,20.0
+ORD0453,2025-01-24,CUST300,Electronics,Headphones,4,16443,0.0,65772,65772.0,East,Website,COD,0.0
+ORD0454,2025-03-05,CUST131,Sports,Dumbbells,4,4907,0.0,19628,19628.0,West,Marketplace,Credit Card,0.0
+ORD0455,2025-01-14,CUST306,Sports,Yoga Mat,3,2172,0.1,6516,5864.4,North,Website,UPI,10.0
+ORD0456,2025-12-09,CUST172,Fashion,T-Shirt,4,3047,0.05,12188,11578.6,North,Mobile App,UPI,5.0
+ORD0457,2025-06-27,CUST244,Home & Kitchen,Coffee Maker,4,8021,0.1,32084,28875.6,North,Mobile App,UPI,10.0
+ORD0458,2025-07-16,CUST231,Beauty,Sunscreen,4,2078,0.15,8312,7065.2,West,Marketplace,Debit Card,15.0
+ORD0459,2025-03-27,CUST143,Electronics,Laptop,1,15166,0.05,15166,14407.7,East,Marketplace,Net Banking,5.0
+ORD0460,2025-09-03,CUST304,Fashion,Sneakers,1,3210,0.0,3210,3210.0,South,Website,Credit Card,0.0
+ORD0461,2025-07-16,CUST297,Fashion,Jeans,5,1265,0.0,6325,6325.0,West,Marketplace,Net Banking,0.0
+ORD0462,2025-04-18,CUST132,Beauty,Face Serum,4,628,0.0,2512,2512.0,East,Mobile App,UPI,0.0
+ORD0463,2025-01-06,CUST279,Beauty,Face Serum,1,793,0.05,793,753.35,South,Mobile App,COD,5.0
+ORD0464,2025-09-18,CUST174,Fashion,Sneakers,5,4457,0.1,22285,20056.5,South,Website,COD,10.0
+ORD0465,2025-04-21,CUST337,Sports,Football,3,4094,0.05,12282,11667.9,South,Marketplace,UPI,5.0
+ORD0466,2025-02-02,CUST101,Home & Kitchen,Cookware Set,1,4188,0.0,4188,4188.0,North,Website,Net Banking,0.0
+ORD0467,2025-01-06,CUST344,Home & Kitchen,Air Fryer,3,4527,0.0,13581,13581.0,West,Mobile App,COD,0.0
+ORD0468,2025-12-09,CUST242,Home & Kitchen,Air Fryer,5,7420,0.15,37100,31535.0,East,Mobile App,COD,15.0
+ORD0469,2025-06-01,CUST218,Electronics,Smartphone,3,10779,0.15,32337,27486.45,North,Website,Credit Card,15.0
+ORD0470,2025-02-28,CUST109,Electronics,Laptop,1,54791,0.1,54791,49311.9,North,Website,Debit Card,10.0
+ORD0471,2025-08-15,CUST102,Beauty,Shampoo,4,1477,0.1,5908,5317.2,West,Mobile App,Net Banking,10.0
+ORD0472,2025-11-11,CUST211,Fashion,Jeans,3,2585,0.05,7755,7367.25,South,Marketplace,COD,5.0
+ORD0473,2025-05-03,CUST180,Electronics,Headphones,1,60083,0.1,60083,54074.7,North,Website,COD,10.0
+ORD0474,2025-07-13,CUST148,Fashion,Backpack,3,2633,0.0,7899,7899.0,East,Marketplace,UPI,0.0
+ORD0475,2025-10-16,CUST135,Electronics,Laptop,2,22451,0.15,44902,38166.7,West,Mobile App,Net Banking,15.0
+ORD0476,2025-12-07,CUST116,Home & Kitchen,Cookware Set,3,10291,0.05,30873,29329.35,West,Mobile App,Credit Card,5.0
+ORD0477,2025-01-30,CUST240,Sports,Yoga Mat,2,2783,0.1,5566,5009.4,West,Marketplace,Credit Card,10.0
+ORD0478,2025-03-10,CUST274,Fashion,Sneakers,2,1282,0.0,2564,2564.0,East,Mobile App,Net Banking,0.0
+ORD0479,2025-02-20,CUST231,Fashion,Backpack,3,4494,0.0,13482,13482.0,North,Marketplace,UPI,0.0
+ORD0480,2025-03-15,CUST241,Electronics,Smartphone,3,20732,0.1,62196,55976.4,East,Website,Net Banking,10.0
+ORD0481,2025-03-07,CUST272,Fashion,Jeans,2,977,0.05,1954,1856.3,South,Mobile App,Net Banking,5.0
+ORD0482,2025-05-26,CUST316,Home & Kitchen,Coffee Maker,1,5683,0.0,5683,5683.0,West,Website,UPI,0.0
+ORD0483,2025-09-22,CUST174,Home & Kitchen,Coffee Maker,3,814,0.1,2442,2197.8,West,Website,Credit Card,10.0
+ORD0484,2025-06-26,CUST341,Electronics,Smartwatch,5,43837,0.15,219185,186307.25,East,Marketplace,COD,15.0
+ORD0485,2025-02-22,CUST262,Beauty,Shampoo,2,1143,0.2,2286,1828.8,North,Website,Net Banking,20.0
+ORD0486,2025-11-07,CUST312,Fashion,Backpack,1,2599,0.15,2599,2209.15,North,Mobile App,COD,15.0
+ORD0487,2025-07-01,CUST192,Beauty,Moisturizer,5,2086,0.1,10430,9387.0,South,Marketplace,Debit Card,10.0
+ORD0488,2025-10-15,CUST218,Sports,Yoga Mat,4,3822,0.0,15288,15288.0,South,Mobile App,Credit Card,0.0
+ORD0489,2025-01-24,CUST224,Beauty,Moisturizer,4,395,0.2,1580,1264.0,South,Website,Net Banking,20.0
+ORD0490,2025-05-07,CUST272,Electronics,Smartphone,1,24098,0.2,24098,19278.4,West,Mobile App,COD,20.0
+ORD0491,2025-03-07,CUST137,Sports,Dumbbells,3,2111,0.0,6333,6333.0,East,Marketplace,Credit Card,0.0
+ORD0492,2025-06-10,CUST111,Beauty,Shampoo,1,960,0.0,960,960.0,North,Marketplace,Credit Card,0.0
+ORD0493,2025-02-24,CUST334,Electronics,Smartwatch,2,3107,0.05,6214,5903.3,West,Website,Net Banking,5.0
+ORD0494,2025-08-22,CUST173,Fashion,Sneakers,1,3318,0.15,3318,2820.3,West,Website,COD,15.0
+ORD0495,2025-01-29,CUST196,Electronics,Laptop,4,18073,0.0,72292,72292.0,South,Marketplace,Net Banking,0.0
+ORD0496,2025-01-26,CUST303,Electronics,Smartwatch,4,26402,0.2,105608,84486.4,South,Mobile App,Debit Card,20.0
+ORD0497,2025-06-20,CUST207,Sports,Dumbbells,3,3310,0.2,9930,7944.0,West,Website,COD,20.0
+ORD0498,2025-04-14,CUST236,Home & Kitchen,Coffee Maker,3,8669,0.1,26007,23406.3,East,Website,Net Banking,10.0
+ORD0499,2025-04-22,CUST348,Home & Kitchen,Coffee Maker,4,3057,0.1,12228,11005.2,North,Marketplace,COD,10.0
+ORD0500,2025-05-15,CUST185,Beauty,Moisturizer,1,769,0.15,769,653.65,South,Mobile App,COD,15.0
